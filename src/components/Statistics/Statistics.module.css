@@ -1,12 +1,11 @@
 .statistics {
-  margin-top: 40px;
+  margin-top: 50px;
   display: block;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
   width: 410px;
   height: auto;
-  padding: 40px 0 40px;
 }
 .title {
   background-color: white;
